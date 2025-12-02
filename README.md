@@ -37,6 +37,9 @@ Pré-requisitos: Você precisa ter o [Node.js](https://nodejs.org/) instalado em
 4. **Execute o projeto:**
    ```bash
    npx expo start
+   # ou
+   npx expo start --tunnel
+   # Caso necessário devido a restrições de firewall ou configurações de rede
 
 5. **No Celular:**
    Instale o aplicativo Expo Go (Disponível na Play Store ou App Store).
